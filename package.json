@@ -1,0 +1,47 @@
+{
+  "name": "electron-jsx-babel-boilerplate",
+  "version": "1.0.0",
+  "description": "Electron boilerplate project with React and babel",
+  "main": ".serve/app.js",
+  "scripts": {
+    "install": "bower install",
+    "start": "gulp serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "react",
+    "babel"
+  ],
+  "author": "Quramy",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel": "^5.4.7",
+    "browserify": "^10.2.4",
+    "del": "^1.1.1",
+    "electron-connect": "^0.3.0",
+    "electron-packager": "^4.1.3",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0",
+    "gulp-flatten": "0.0.4",
+    "gulp-if": "^1.2.5",
+    "gulp-inject": "^1.2.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-minify-css": "^1.1.6",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-useref": "^1.2.0",
+    "gulp-watch": "^4.2.4",
+    "main-bower-files": "^2.8.0",
+    "merge2": "^0.3.5",
+    "optimist": "^0.6.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
