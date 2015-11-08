@@ -11,4 +11,11 @@ a, a:hover, a:visited, a:active, a:focus {
 .main {
   margin-top: 15px;
   text-align: center;
+
+  button {
+    margin-right: 15px;
+  }
+  button:last-child {
+    margin-right: 0px;
+  }
 }

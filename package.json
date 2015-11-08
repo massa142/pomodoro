@@ -1,7 +1,7 @@
 {
-  "name": "electron-jsx-babel-boilerplate",
+  "name": "pomodoro",
   "version": "1.0.0",
-  "description": "Electron boilerplate project with React and babel",
+  "description": "Time application for Pomodoro Technique",
   "main": ".serve/app.js",
   "scripts": {
     "install": "bower install",
@@ -13,11 +13,12 @@
     "react",
     "babel"
   ],
-  "author": "Quramy",
+  "author": "massa142",
   "license": "MIT",
   "dependencies": {
     "lodash": "^3.9.3",
-    "react": "^0.13.3"
+    "react": "^0.13.3",
+    "node-notifier": "^4.3.1"
   },
   "devDependencies": {
     "babel": "^5.4.7",
