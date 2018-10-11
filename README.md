@@ -1,5 +1,7 @@
 # pomodoro
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/massa142/pomodoro.svg)](https://greenkeeper.io/)
+
 Time application for Pomodoro Technique
 
 ## Development
