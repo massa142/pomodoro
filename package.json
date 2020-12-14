@@ -18,7 +18,7 @@
   "dependencies": {
     "lodash": "^3.9.3",
     "react": "^0.13.3",
-    "node-notifier": "^4.3.1"
+    "node-notifier": "^9.0.0"
   },
   "devDependencies": {
     "babel": "^5.4.7",
