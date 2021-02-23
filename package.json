@@ -16,7 +16,7 @@
   "author": "massa142",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^3.9.3",
+    "lodash": "^4.17.21",
     "react": "^0.13.3",
     "node-notifier": "^4.3.1"
   },
